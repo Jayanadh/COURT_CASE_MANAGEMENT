@@ -1,0 +1,31 @@
+# This project uses Node packages managed by package.json / bun.lockb.
+# This requirements.txt is provided only as a quick reference list.
+# Install with:  npm install  (or)  bun install
+
+# Runtime
+react
+react-dom
+react-router-dom
+firebase
+
+# Styling / UI
+tailwindcss
+postcss
+autoprefixer
+clsx
+tailwind-merge
+class-variance-authority
+lucide-react
+@radix-ui/react-icons
+
+# Build / Types
+vite
+@vitejs/plugin-react-swc
+typescript
+@types/react
+@types/react-dom
+
+# Linting
+eslint
+@typescript-eslint/parser
+@typescript-eslint/eslint-plugin
