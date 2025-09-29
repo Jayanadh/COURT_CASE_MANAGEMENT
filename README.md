@@ -152,15 +152,3 @@ bun run preview # or: npm run preview
 1. Fork → feature branch → commit with conventional messages → PR.  
 2. Add tests or minimal repro where applicable.  
 3. Run `lint` and ensure build passes before pushing.
-
----
-
-## 📄 License
-MIT — see `LICENSE` (add one if not present).
-
----
-
-## 📚 Acknowledgements
-- Vite React + TS starter, TailwindCSS, shadcn/ui patterns.  
-- Firebase Auth & Firestore.
-
